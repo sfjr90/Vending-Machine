@@ -1,0 +1,5 @@
+﻿  FiniteStateMachine.cpp
+C:\Users\Saul Flores\source\repos\FiniteStateMachine\FiniteStateMachine\FiniteStateMachine.cpp(135): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\Saul Flores\source\repos\FiniteStateMachine\FiniteStateMachine\FiniteStateMachine.cpp(139): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\Saul Flores\source\repos\FiniteStateMachine\FiniteStateMachine\FiniteStateMachine.cpp(143): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  FiniteStateMachine.vcxproj -> C:\Users\Saul Flores\source\repos\FiniteStateMachine\Debug\FiniteStateMachine.exe
